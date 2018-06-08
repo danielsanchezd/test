@@ -1,2 +1,3 @@
-Just a test repo 3
+Just a test repo
+Automatic merge
 
