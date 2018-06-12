@@ -1,2 +1,2 @@
 Just a test repo
-Automatic merge 4
+Automatic merge 5
